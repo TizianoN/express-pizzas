@@ -1,0 +1,16 @@
+{
+  "name": "intro-express",
+  "version": "1.0.0",
+  "description": "Prima lezione express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "author": "Tiziano Nicolai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
